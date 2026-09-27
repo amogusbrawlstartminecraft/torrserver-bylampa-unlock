@@ -14,7 +14,8 @@ import (
 
 	"github.com/anacrolix/dms/dlna/dms"
 	"github.com/anacrolix/log"
-	"github.com/wlynxg/anet"
+	//"github.com/wlynxg/anet"
+	"github.com/hossinasaadi/anet"
 
 	"server/netbind"
 	"server/settings"
